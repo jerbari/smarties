@@ -1,3 +1,3 @@
 # smarties
 
-Hallo zusammen
+hallo zusammen
